@@ -149,3 +149,7 @@ Common improvement ideas:
 - Batch reprocessing routine (for migrations)
 
 ---
+
+## License
+
+MIT. See `LICENSE`.
