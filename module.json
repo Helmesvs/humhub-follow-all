@@ -1,0 +1,13 @@
+{
+  "id": "follow-all",
+  "name": "Follow All",
+  "description": "Segue automaticamente todos os usuários existentes quando um novo usuário é criado.",
+  "keywords": [
+    "follow",
+    "user"
+  ],
+  "version": "1.0.0",
+  "humhub": {
+    "minVersion": "1.2"
+  }
+}
